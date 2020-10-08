@@ -155,7 +155,7 @@ API type: POST
 
 URL: http://0.0.0.0:5000/api/v1.0/product_add/
 
-example: http://0.0.0.0:5000/api/v1.0/product/5f7d44549109cc1cae7014e9
+example: http://0.0.0.0:5000/api/v1.0/product_add/
 
 RAW_JSON:
 ```
